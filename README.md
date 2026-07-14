@@ -66,13 +66,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKhaviya&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKhaviya&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKhaviya&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
