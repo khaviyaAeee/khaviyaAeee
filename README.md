@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaviya A</h1>
-<h3 align="center">Electrical Engineering Student | IoT Enthusiast | Web Developer</h3>
+<h3 align="center">Electrical Engineering Student | IoT Enthusiast | Full-stack Developer | Java </h3>
 
 <p align="center">
  
@@ -18,9 +18,9 @@
 ### 💫 About Me
 
 * 🎓 I’m currently pursuing a B.E. in Electrical and Electronics Engineering at Panimalar Engineering College [2023-2027], With a CGPA of 8.71 till my Sixth semester
-* 🏭 I have completed impactful internships at Power Grid Corporation of India Limited (PGCIL), Cluster Energy, and Retech Solutions Pvt. Ltd
+* 🏭 I have completed impactful internships at Power Grid Corporation of India Limited (PGCIL), Cluster Energy, Infomatronics Project Services and Retech Solutions Pvt.Ltd
 * 🏆 I actively compete in tech initiatives, recently ranking as a finalist in the top 25 at the Anna University National-Level Paper Presentation and the top 50 at the SheShines Hexaware hackathon
-* 🧠 I hold certifications in AWS Security Fundamentals,Nasscom FutureSkillsPrime Data Acquisition with securing 83% and awarded with Gold Certification, Infosys Springboard Python Development and Internet Of Things and also NPTEL Problem Solving Through Programming in C.
+* 🧠 I hold certifications in AWS Security Fundamentals,Nasscom FutureSkillsPrime Data Acquisition with securing 83% and awarded with Gold Certification, Infosys Springboard Python Development and Internet Of Things.
 * 📫 How to reach me: **akhaviya.eee@gmail.com** or +91 7395990144.
 
 ---
@@ -59,6 +59,7 @@
 * ⚡ **Power Grid Corporation of India Limited (PGCIL) | Electrical Intern** (June 2025 - July 2025): Analyzed 400 kV substation operations and high-voltage equipment like SF6 CBs.
 * ☀️ **Cluster Energy | Solar Power Solutions Intern** (June 2025): Learned solar plant enrollment, load calculation, and erection processes.
 * ⚙️ **Retech Solutions Pvt. Ltd. | IoT & Automation Intern** (June 2024 - July 2024): Worked on Arduino-based automation systems and industrial IoT applications.
+* ☀️ **Infomatronics Project Services | Full-stack Developer Intern** (July 2024): Worked on creating responsive websites and created a Flash Card website as a part of my internship project
 
 ---
 
