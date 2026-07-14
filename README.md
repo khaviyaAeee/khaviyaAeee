@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering Student | IoT Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="Profile.jpeg" width="150" style="border-radius: 50%; border: 2px solid #2196F3;" alt="Khaviya A - Professional Portrait"/>
+  <img src="Profile.png" width="150" style="border-radius: 50%; border: 2px solid #2196F3;" alt="Khaviya A - Professional Portrait"/>
 </p>
 
 <p align="center">
