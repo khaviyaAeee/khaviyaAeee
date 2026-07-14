@@ -63,16 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKhaviya&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
